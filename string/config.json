@@ -1,0 +1,12 @@
+{
+    "password": {
+        "minimum": 7,
+        "maximum": 32,
+        "forbidden_characters": []
+    },
+    "nick": {
+        "minimum": 2,
+        "maximum": 32,
+        "allowed_characters": ["a-z", "A-Z", "\\s", "."]
+    }
+}
