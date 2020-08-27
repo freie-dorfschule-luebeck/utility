@@ -1,6 +1,6 @@
 {
     "password": {
-        "minimum": 7,
+        "minimum": 1,
         "maximum": 32,
         "forbidden_characters": []
     },
