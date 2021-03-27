@@ -1,6 +1,6 @@
 {
   "name": "utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "all sorts of stuff to make webprogramming easier",
   "main": "index.js",
   "scripts": {
