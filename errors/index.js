@@ -25,5 +25,6 @@ module.exports = {
             this.name = this.constructor.name;
         }
     },
-    ErrorStatusCodes: require("./ErrorStatusCodes.json")
+    ErrorStatusCodes: require("./ErrorStatusCodes.json"),
+    LoginErrors: require("./LoginErrors.json")
 }
